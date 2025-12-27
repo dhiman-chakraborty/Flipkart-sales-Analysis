@@ -17,7 +17,7 @@ Total Revenue	₹5,067.91M
 Total Profit	₹1,553.58M (24.53% margin)
 Demand Driver	72% Orders & 71.7% Profit from Weekdays
 Best Category	Home & Kitchen
-Best Brand	Nike (₹107.92M profit)
+Best Brand	Nike  (₹107.92M profit)
 Best Payment Mode	Credit Card (₹1,020.82M)
 Top Revenue State	West Bengal
 Most Profitable Quarter	Q3 (27%)
